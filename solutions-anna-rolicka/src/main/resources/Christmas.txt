@@ -1,0 +1,45 @@
+
+ printChristmasTree(5);
+        printChristmasTree(10);
+        printChristmasTree(15);
+
+output file:
+"C:\Program Files\Java\jdk-9.0.4\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.3\lib\idea_rt.jar=53898:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Anna\Desktop\gi\solutions-5-anna-rolicka\target\classes pl.coderstrust.Christmas
+     *
+    ***
+   *****
+  *******
+ *********
+    **
+          *
+         ***
+        *****
+       *******
+      *********
+     ***********
+    *************
+   ***************
+  *****************
+ *******************
+         **
+               *
+              ***
+             *****
+            *******
+           *********
+          ***********
+         *************
+        ***************
+       *****************
+      *******************
+     *********************
+    ***********************
+   *************************
+  ***************************
+ *****************************
+              **
+
+
+
+
+Process finished with exit code 0
